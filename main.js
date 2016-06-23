@@ -2,7 +2,7 @@
 
 /// Still need to add the 16/16 part of MDN guide in here. RANDOMIZING gameplay
 
-var game = new Phaser.Game(700, 500, Phaser.AUTO);
+var game = new Phaser.Game(800, 600, Phaser.AUTO);
 
 // game sprites:
 var ball;
